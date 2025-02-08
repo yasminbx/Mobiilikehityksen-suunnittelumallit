@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="Mobiilikehityksen_suunnittelumallit.src.main.Lab3" value="Mobiilikehityksen_suunnittelumallit.src.main.Lab2" />
+      </map>
+    </option>
+  </component>
+</project>
